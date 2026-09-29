@@ -34,25 +34,25 @@ The **Smart Campus Resource & Study Space Reservation System** provides an autom
 ## 📁 Repository Directory Layout
 ```text
 campus_reservation_system/
-├── data/                       # Database and export directory
+├── data/                       
 │   └── campus_resource.db
-├── logs/                       # Application runtime audit logs
+├── logs/                       
 │   └── app.log
-├── src/                        # Core source code modules
+├── src/                        
 │   ├── __init__.py
-│   ├── analytics.py            # Facility metrics & CSV export engine
-│   ├── auth.py                 # User authentication & password hashing
-│   ├── booking_engine.py       # Core reservation logic & conflict checking
-│   ├── config.py               # System constants & path configuration
-│   ├── database.py             # SQLite schema manager & connection pool
-│   ├── exceptions.py           # Custom exception domain hierarchy
-│   └── models.py               # Data models (User, Resource, Reservation)
-├── tests/                      # Automated test suite
-│   ├── test_booking.py         # PyTest test cases
-│   └── test_runner.py          # Standalone unittest runner
-├── main.py                     # Interactive CLI driver application
-├── README.md                   # Project overview & execution guide
-└── statement.md                # Detailed problem statement & scope
+│   ├── analytics.py            
+│   ├── auth.py                 
+│   ├── booking_engine.py       
+│   ├── config.py               
+│   ├── database.py             
+│   ├── exceptions.py           
+│   └── models.py               
+├── tests/                      
+│   ├── test_booking.py         
+│   └── test_runner.py          
+├── main.py                     
+├── README.md                   
+└── statement.md                
 ```
 
 ### Sample Test Output:
