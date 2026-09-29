@@ -55,37 +55,6 @@ campus_reservation_system/
 └── statement.md                # Detailed problem statement & scope
 ```
 
----
-
-## 🚀 Installation & Setup Guide
-
-### 1. Prerequisites
-Ensure Python **3.10+** is installed on your system:
-```bash
-python3 --version
-```
-
-### 2. Clone the Repository
-```bash
-git clone https://github.com/vityarthi-student/campus-reservation-system.git
-cd campus-reservation-system
-```
-
-### 3. Run the CLI Application
-No external pip dependencies required! Run using native Python:
-```bash
-PYTHONPATH=. python3 main.py
-```
-
----
-
-## 🧪 Running Automated Tests
-To run the automated unit test suite and verify system logic:
-
-```bash
-PYTHONPATH=. python3 tests/test_runner.py
-```
-
 ### Sample Test Output:
 ```text
 ....
@@ -94,13 +63,3 @@ Ran 4 tests in 0.513s
 
 OK
 ```
-
----
-
-## 👨‍💻 Admin Credentials (Default Seed Data)
-To test administrative functions (analytics & CSV exporting), register an admin user or run the application CLI to view automatically populated sample campus facilities.
-
----
-
-## 📜 License
-Developed under the **VITyarthi Academic Project Guidelines**. Licensed under the MIT License.
