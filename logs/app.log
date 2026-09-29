@@ -1,0 +1,17 @@
+2026-09-27 07:19:24,269 - DatabaseManager - INFO - Database schema initialized successfully.
+2026-09-27 07:19:24,269 - DatabaseManager - INFO - Database seeded with sample campus resources.
+2026-09-27 07:19:24,348 - AuthService - INFO - User 'user1' registered successfully with ID 1.
+2026-09-27 07:19:24,418 - AuthService - INFO - User 'user2' registered successfully with ID 2.
+2026-09-27 07:19:24,420 - BookingEngine - INFO - Reservation #1 created for User #1 on Resource #1.
+2026-09-27 07:19:24,421 - BookingEngine - INFO - Reservation #1 cancelled by User #1.
+2026-09-27 07:19:24,423 - DatabaseManager - INFO - Database schema initialized successfully.
+2026-09-27 07:19:24,424 - DatabaseManager - INFO - Database seeded with sample campus resources.
+2026-09-27 07:19:24,493 - AuthService - INFO - User 'user1' registered successfully with ID 1.
+2026-09-27 07:19:24,563 - AuthService - INFO - User 'user2' registered successfully with ID 2.
+2026-09-27 07:19:24,565 - BookingEngine - INFO - Reservation #1 created for User #1 on Resource #1.
+2026-09-27 07:19:24,567 - DatabaseManager - INFO - Database schema initialized successfully.
+2026-09-27 07:19:24,568 - DatabaseManager - INFO - Database seeded with sample campus resources.
+2026-09-27 07:19:24,570 - DatabaseManager - INFO - Database schema initialized successfully.
+2026-09-27 07:19:24,570 - DatabaseManager - INFO - Database seeded with sample campus resources.
+2026-09-27 07:19:24,640 - AuthService - INFO - User 'teststudent' registered successfully with ID 1.
+2026-09-27 07:19:24,709 - AuthService - INFO - User 'teststudent' authenticated successfully.
